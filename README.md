@@ -2,6 +2,11 @@
 
 > 学习ECMAScript2015，通过此项目 彩票项目（快频11选5）实例来更加清晰的了解和掌握ES6。
 
+<p align="center">
+<img src="https://img.shields.io/badge/Language-%20ECMAScript2015%20-f9e229.svg">
+<img src="http://progressed.io/bar/1?title=Progress">
+</p>
+
 ## 需求分析
 
 **拆分功能模块**
